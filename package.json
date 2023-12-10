@@ -1,10 +1,6 @@
 {
-    "version":  "v1",
-    "license":  "",
-    "extract_dir":  "",
-    "url":  "https://github.com/WireBases/cli/archive/refs/heads/main.zip",
-    "depends":  "",
-    "homepage":  "",
-    "hash":  "",
-    "bin":  ""
+    "version": "1.0",
+    "url": "https://github.com/WireBases/cli/archive/refs/heads/main.zip",
+    "bin": "wirebasec.exe"
 }
+  
